@@ -1,2 +1,2 @@
 # AI300_Projects
-GitHub Project for AI300
+Capstone Project for AI300
